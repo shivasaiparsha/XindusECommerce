@@ -34,7 +34,7 @@ public class UserService {
              String encodedPassword= passwordEncoder.encode(adduserDto.getPassword()); // encode the password for more securoty
              User user = new User(adduserDto.getUsername(),adduserDto.getEmail(), encodedPassword,adduserDto.getRole());
              userRespository.save(user);
-             return "Registration successful";
+             return "Registration successful!";
          }
          catch (Exception e) {
              throw new Exception(e.getMessage());
