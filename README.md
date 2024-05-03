@@ -237,6 +237,10 @@ It removes the item from the user's wishlist and updates the repository accordin
                                All test cases executed successfully
 --------------------------------------------------------------------------------------------------------------------
 
+![Screenshot (5)](https://github.com/shivasaiparsha/XindusECommerce/assets/112009608/1a6801fc-b264-473b-9e5c-d6b45c792780)
+
+
+
   ********************************Scope Of Improvement***********************************
 ##Area Of Improvement**
 Spring security
